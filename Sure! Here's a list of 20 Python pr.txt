@@ -1,0 +1,55 @@
+Sure! Here's a list of **20 Python programming questions for beginners**, designed to help practice basic concepts like variables, loops, conditionals, functions, and data structures:
+
+---
+
+### ✅ **Basic Syntax & Variables**
+
+1. Write a Python program to print "Hello, World!".
+2. Write a Python program that takes user input for name and age and prints a greeting.
+3. Write a program to swap two numbers entered by the user.
+
+---
+
+### 🔢 **Conditionals & Loops**
+
+4. Write a program to check if a number is even or odd.
+5. Write a program to find the largest of three numbers.
+6. Write a program to print numbers from 1 to 100 using a loop.
+7. Write a program to print the multiplication table of a number.
+8. Write a program to check if a number is prime.
+
+---
+
+### 🔁 **Loops & Patterns**
+
+9. Write a program to print a right-angled triangle pattern using `*`.
+10. Write a program to calculate the factorial of a number.
+
+---
+
+### 🔣 **Strings**
+
+11. Write a program to count the number of vowels in a string.
+12. Write a program to check if a string is a palindrome.
+13. Write a program to reverse a string without using built-in functions.
+
+---
+
+### 📦 **Lists & Dictionaries**
+
+14. Write a program to find the largest element in a list.
+15. Write a program to remove duplicates from a list.
+16. Write a program to count the frequency of each element in a list.
+17. Write a program that takes a dictionary and prints all the keys and values.
+
+---
+
+### 📚 **Functions & Modules**
+
+18. Write a function that returns the square of a number.
+19. Write a function to check if a number is a perfect number.
+20. Write a Python program using a function to generate Fibonacci sequence up to `n` terms.
+
+---
+
+Would you like answers or explanations for any of these?
