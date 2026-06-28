@@ -1,6 +1,4 @@
-Sure! Here's a list of **20 Python programming questions for beginners**, designed to help practice basic concepts like variables, loops, conditionals, functions, and data structures:
 
----
 
 ### ✅ **Basic Syntax & Variables**
 
@@ -50,6 +48,4 @@ Sure! Here's a list of **20 Python programming questions for beginners**, design
 19. Write a function to check if a number is a perfect number.
 20. Write a Python program using a function to generate Fibonacci sequence up to `n` terms.
 
----
 
-Would you like answers or explanations for any of these?
